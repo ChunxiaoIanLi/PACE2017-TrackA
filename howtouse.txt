@@ -1,0 +1,5 @@
+upperbound:
+java tw.heuristic.MainDecomposer< .gr file
+
+lowerbound:
+java tw.exact.MainDecomposer < .gr file
