@@ -166,6 +166,8 @@ public class IODecomposer {
       log("failed");
 
       targetWidth++;
+      String str = "" + targetWidth;
+      System.out.println("current best lower bound: " + str);
     }
     return;
   }
